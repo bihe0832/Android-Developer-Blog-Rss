@@ -4,7 +4,6 @@
 		<title>Subscriptions - RSS</title>
 	</head>
 	<body>
-		<outline htmlUrl="http://blog.csdn.net/ace1985" title="ASCE1885" xmlUrl="http://blog.csdn.net/ACE1985/rss/list" type="rss" text="ASCE1885"/>
 		<outline text="Android" title="Android">
 			<outline htmlUrl="http://blog.csdn.net/aigestudio" title="AigeStudio" xmlUrl="http://blog.csdn.net/aigestudio/rss/list" type="rss" text="AigeStudio"/>
 			<outline htmlUrl="http://www.androidcentral.com/" title="Android Central - Android Forums - News - Reviews - Help and Android Wallpapers" xmlUrl="http://www.androidcentral.com/feed" type="rss" text="Android Central - Android Forums - News - Reviews - Help and Android Wallpapers"/>
@@ -77,6 +76,8 @@
 			<outline htmlUrl="http://www.ruanyifeng.com/blog/" title="阮一峰的网络日志" xmlUrl="http://feeds.feedburner.com/ruanyifeng" type="rss" text="阮一峰的网络日志"/>
 			<outline htmlUrl="http://blog.csdn.net/nugongahou110" title="阿拉灯神灯的专栏" xmlUrl="http://blog.csdn.net/nugongahou110/rss/list" type="rss" text="阿拉灯神灯的专栏"/>
 			<outline htmlUrl="http://chenqichao.me/" title="陈启超的博客" xmlUrl="http://chenqichao.me/atom.xml" type="rss" text="陈启超的博客"/>
+			<outline htmlUrl="http://hukai.me/" title="胡凯" xmlUrl="http://hukai.me/atom.xml" type="rss" text="胡凯"/>
+			<outline htmlUrl="http://blog.csdn.net/andy_android" title="andy_android的专栏" xmlUrl="http://blog.csdn.net/andy_android/rss/list" type="rss" text="andy_android的专栏"/>
 		</outline>
 		<outline text="资讯汇总" title="资讯汇总">
 			<outline htmlUrl="http://www.importnew.com" title="ImportNew" xmlUrl="http://www.importnew.com/feed" type="rss" text="ImportNew"/>
