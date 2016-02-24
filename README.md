@@ -360,9 +360,28 @@
 * 博客地址: [http://www.cnblogs.com/over140/](http://www.cnblogs.com/over140/)
 * 订阅地址: [http://www.cnblogs.com/over140/rss](http://www.cnblogs.com/over140/rss)
 
+### 代震军
+
+* 博客地址： [http://www.cnblogs.com/daizhj/](http://www.cnblogs.com/daizhj/)
+* 订阅地址： [http://www.cnblogs.com/daizhj/rss/list](http://www.cnblogs.com/daizhj/rss/list)
+
+### ASCE1885
+
+* 博客地址：[http://blog.csdn.net/asce1885](http://blog.csdn.net/asce1885)
+* 订阅地址：[http://blog.csdn.net/asce1885/rss/list](http://blog.csdn.net/asce1885/rss/list)
+
+### andy_android的专栏
+
+* 博客地址：[http://blog.csdn.net/andy_android](http://blog.csdn.net/andy_android)
+* 订阅地址：[http://blog.csdn.net/andy_android/rss/list](http://blog.csdn.net/andy_android/rss/list)
+
+### 胡凯
+
+* 博客地址：[http://hukai.me](http://hukai.me)
+* 订阅地址：[http://hukai.me/atom.xml](http://hukai.me/atom.xml)
 
 
-### Android 资讯类博客
+## Android 资讯类博客
 
 ### ImportNew
 
@@ -379,17 +398,9 @@
 * 博客地址：[http://blog.jobbole.com](http://blog.jobbole.com)
 * 订阅地址：[http://blog.jobbole.com/feed/](http://blog.jobbole.com/feed/)
 
-### 代震军
 
-* 博客地址： [http://www.cnblogs.com/daizhj/](http://www.cnblogs.com/daizhj/)
-* 订阅地址： [http://www.cnblogs.com/daizhj/rss/list](http://www.cnblogs.com/daizhj/rss/list)
-
-### ASCE1885
-
-* 博客地址：[http://blog.csdn.net/asce1885](http://blog.csdn.net/asce1885)
-* 订阅地址：[http://blog.csdn.net/asce1885/rss/list](http://blog.csdn.net/asce1885/rss/list)
-
-
+### Android官方培训课程中文版
+* 博客地址：[http://hukai.me/android-training-course-in-chinese/](http://hukai.me/android-training-course-in-chinese/)
 
 ## 变更记录
 
@@ -398,3 +409,6 @@
 
 * V1.01 
   * 2015年12月15日 增加 代震军、ASCE1885 
+
+* V1.02 
+  * 2016年02月17日 增加 andy_android、胡凯、Android官方培训课程中文版
