@@ -293,7 +293,7 @@
 
 ### 明镜本清净
 
-* 博客地址: [http://yoursite.com/](http://yoursite.com/)
+* 博客地址: [http://yoursite.com/](http://anany.me/)
 * 订阅地址: [http://anany.me/atom.xml](http://anany.me/atom.xml)
 
 ### 杨辉的个人博客
